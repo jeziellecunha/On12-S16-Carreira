@@ -79,15 +79,15 @@
   "no_que_me_destaco": [
     {
       "habilidade_ferramenta": "JAVASCRIPT",
-      "pontuacao": 8
+      "pontuacao": 9
     },
     {
       "habilidade_ferramenta": "JAVA",
-      "pontuacao": 7
+      "pontuacao": 8
     },
     {
       "habilidade_ferramenta": "NODE",
-      "pontuacao": 8
+      "pontuacao": 9
     },
     {
       "habilidade_ferramenta": "GIT/GITHUB",
@@ -103,11 +103,11 @@
     },
     {
       "habilidade_ferramenta": "HTML",
-      "pontuacao": 7
+      "pontuacao": 8
     },
     {
       "habilidade_ferramenta": "CSS",
-      "pontuacao": 7
+      "pontuacao": 8
     },
     {
       "habilidade_ferramenta": "SASS",
@@ -116,6 +116,10 @@
     {
       "habilidade_ferramenta": "BOOTSTRAP",
       "pontuacao": 5
+    },
+    {
+      "habilidade_ferramenta": "SPRING BOOT",
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "REACT",
@@ -143,20 +147,16 @@
     },
     {
       "habilidade_ferramenta": "PHP",
-      "pontuacao": 4
+      "pontuacao": 5
     },
     
     {
       "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
-      "pontuacao": 4
+      "pontuacao": 5
     },
     {
       "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
-      "pontuacao": 4
-    },
-    {
-      "habilidade_ferramenta": "PHOTOSHOP",
-      "pontuacao": 3
+      "pontuacao": 5
     }
     
   ]
