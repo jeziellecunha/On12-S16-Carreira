@@ -6,7 +6,7 @@
   "link_github": "https://github.com/jeziellecunha",
   "email": "jeziellecunha.dev@gmail.com",
   "um_pouco_sobre_mim": [
-    "Sou mulher, nordentina, valente de muita entrega e compromisso com o quê faço.",
+    "Sou mulher, nordentina, valente de muita entrega e compromisso com o quê faço. Em busca de liberdade, autonomia e independência.",
     "Formada em Administração de empresas, Pós-graduada em Planejamento e Gestão Organizacional, ambas pela UPE, trabalhei na adm pública nos últimos dez anos, onde aprendi a gerenciar recursos e liderar pessoas. Atualmente estou em transição para área de tecnologia de forma sólida, estudando Análise e desenvolvimento de sistemas pela Estácio de Sá e formada no Bootcamp Reprograma Back-end. ",
     "Meus hobbies são ouvir música e brincar com minhas filhinhas de quatro patas."
   ],
@@ -110,12 +110,8 @@
       "pontuacao": 8
     },
     {
-      "habilidade_ferramenta": "SASS",
-      "pontuacao": 5
-    },
-    {
       "habilidade_ferramenta": "BOOTSTRAP",
-      "pontuacao": 5
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "SPRING BOOT",
@@ -123,6 +119,10 @@
     },
     {
       "habilidade_ferramenta": "REACT",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "REACT NATIVE",
       "pontuacao": 6
     },
     {
@@ -131,32 +131,39 @@
     },
     {
       "habilidade_ferramenta": "RESPONSIVIDADE",
-      "pontuacao": 6
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "UX DESIGN",
-      "pontuacao": 6
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "TECNOLOGIA ASSISTIVAS",
-      "pontuacao": 5
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "ANGULAR",
-      "pontuacao": 6
+      "pontuacao": 7
     },
     {
       "habilidade_ferramenta": "PHP",
       "pontuacao": 5
     },
-    
     {
       "habilidade_ferramenta": "HOSPEDAGEM DE SITE",
-      "pontuacao": 5
+      "pontuacao": 6
     },
     {
       "habilidade_ferramenta": "CONFIGURAÇÃO DE DOMÍNIO",
-      "pontuacao": 5
+      "pontuacao": 6
+    },
+    {
+      "habilidade_ferramenta": "INGLÊS",
+      "pontuacao": 7
+    },
+    {
+      "habilidade_ferramenta": "ESPANHOU",
+      "pontuacao": 7
     }
     
   ]
